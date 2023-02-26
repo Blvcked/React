@@ -1,0 +1,12 @@
+{
+  // LIVE SASS COMPILER
+  "liveSassCompile.settings.includeItems": ["/src/scss/App.scss"],
+  "liveSassCompile.settings.formats": [
+    {
+      "format": "expanded",
+      "extensionName": ".min.css",
+      "savePath": "~/../css"
+    }
+  ],
+  "liveSassCompile.settings.autoprefix": null
+}
